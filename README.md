@@ -2,30 +2,34 @@
 <!-- [获取Github个人数据](https://shields.io/) [logo=wechat 的wechat图标地址](https://simpleicons.org/) -->
 <h2 align="center">✨ Thank You For Your Visit ✨</h2>
 <div align="center">
-    <img src="https://profile-counter.glitch.me/xchsdo/count.svg" alt="访客数量">
+    <code><img src="https://profile-counter.glitch.me/xchsdo/count.svg" alt="访客数量"></code>
 </div>
 
 ## 📬 Get In Touch
 <div align="center">
+    <code><a href="https://www.iiylw.com"><img src="https://img.shields.io/badge/blog-iiylw.com-success?style=flat&logo=Google Maps" /></a></code>
     <code><img src="https://img.shields.io/badge/Wechat-iiylwcom-brightgreen?style=flat&logo=wechat"></code>
     <code><img src="https://img.shields.io/badge/QQ-81409551-blue?style=flat&logo=tencentqq"></code>
-    <code><img src="https://img.shields.io/badge/E.mail-admin@iiylw.com-ff69b4?style=flat&logo=Mail.Ru"></code>
+    </br></br>
+    <code><img src="https://img.shields.io/badge/E.mail-admin@iiylw.com-ff69b4?style=flat&logo=Mail.Ru"></code></br></br>
     <code><a href="https://gitee.com/xchsdo"><img src="https://img.shields.io/badge/Gitee-xchsdo-orange?style=flat&logo=gitee" /></a></code>
     <code><a href="https://github.com/xchsdo"><img src="https://img.shields.io/badge/Github-xchsdo-red?style=flat&logo=github" /></a></code>
-   <a href="https://www.iiylw.com"><img src="https://img.shields.io/badge/blog-iiylw.com-success?style=flat&logo=Google Maps" /></a></br>
+    <code><a href="https://gitlab.com/xchsdo"><img src="https://img.shields.io/badge/Gitlab-xchsdo-orange?style=flat&logo=gitlab" /></a></code>
+    </br></br>
     <code><a href="https://github.com/xchsdo/xchsdo"><img src="https://img.shields.io/github/stars/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/xchsdo"><img src="https://img.shields.io/github/followers/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/xchsdo"><img src="https://img.shields.io/github/issues/xchsdo/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/xchsdo"><img src="https://visitor-badge.glitch.me/badge?page_id=xchsdo.xchsdo"></a></code>
-    <a href="https://github.com/xchsdo/xchsdo"><img src="https://img.shields.io/github/forks/xchsdo/xchsdo"></a></br>
-    <a href="https://github.com/xchsdo/xchsdo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/xchsdo/xchsdo"></a>
+    <code><a href="https://github.com/xchsdo/xchsdo"><img src="https://img.shields.io/github/forks/xchsdo/xchsdo"></a></code>
+    </br></br>
+    <code><a href="https://github.com/xchsdo/xchsdo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/xchsdo/xchsdo"></a></code>
 </div>
 
 ## 🏆 Github Status
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xchsdo&show_icons=true&theme=tokyonight" alt="my github stats" />
-    </br>
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xchsdo&show_icons=true" alt="my github Languages" />
+    <code><img src="https://github-readme-stats.vercel.app/api?username=xchsdo&show_icons=true&theme=tokyonight" alt="my github stats" /></code>
+    </br></br>
+    <code><img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xchsdo&show_icons=true" alt="my github Languages" /></code>
 </div>
 
 * Languages:
